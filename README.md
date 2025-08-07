@@ -109,4 +109,4 @@ atividade_matrizes/
 
 # 👨‍💻 Autor
 
-Desenvolvido como atividade acadêmica para o curso de **Análise e Desenvolvimento de Sistemas - UniCesumar (Unidade Portão - Curitiba)**.
+Desenvolvido pelo aluno Jorge Lucas G. Borges, como atividade acadêmica para o curso de **Análise e Desenvolvimento de Sistemas - UniCesumar (Unidade Portão - Curitiba)**.
