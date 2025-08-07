@@ -1,4 +1,4 @@
--> 🧮 Atividade 06/08 – Multiplicação de Matrizes (Python)
+# 🧮 Atividade 06/08 – Multiplicação de Matrizes (Python)
 
 Trabalho da disciplina de **Programação Orientada a Objetos**, com o objetivo de:
 
@@ -10,9 +10,9 @@ Trabalho da disciplina de **Programação Orientada a Objetos**, com o objetivo 
 
 ---
 
--> ✅ Como executar o projeto
+# ✅ Como executar o projeto
 
-# 🔧 Requisitos
+## 🔧 Requisitos
 
 - Python instalado no sistema:  
   👉 https://www.python.org/downloads/
@@ -22,7 +22,7 @@ Trabalho da disciplina de **Programação Orientada a Objetos**, com o objetivo 
 
 ---
 
-# 🚀 Executar o programa
+## 🚀 Executar o programa
 
 1. Coloque os arquivos em uma pasta:
    - `main.py`
@@ -39,7 +39,7 @@ py main.py
 
 ---
 
-# 📌 O que o programa faz
+## 📌 O que o programa faz
 
 - Lê os arquivos `matriz1.txt` e `matriz2.txt`
 - Verifica se são matrizes quadradas
@@ -51,7 +51,7 @@ py main.py
 
 ---
 
--> 📄 Exemplo dos arquivos `.txt`
+# 📄 Exemplo dos arquivos `.txt`
 
 ### `matriz1.txt`
 ```
@@ -67,7 +67,7 @@ py main.py
 
 ---
 
--> 💻 Exemplo de saída (resumo)
+# 💻 Exemplo de saída (resumo)
 
 ```
 Matriz 1:
@@ -95,7 +95,7 @@ Digite o segundo número: 4
 
 ---
 
--> 📁 Organização da pasta
+# 📁 Organização da pasta
 
 ```
 atividade_matrizes/
@@ -107,6 +107,6 @@ atividade_matrizes/
 
 ---
 
--> 👨‍💻 Autor
+# 👨‍💻 Autor
 
-Desenvolvido como atividade acadêmica para o curso de **Análise e Desenvolvimento de Sistemas - UniCesumar (Unidade Portão - Curitiba) - Aluno: Jorge Lucas Gerônimo Borges**.
+Desenvolvido como atividade acadêmica para o curso de **Análise e Desenvolvimento de Sistemas - UniCesumar (Unidade Portão - Curitiba)**.
